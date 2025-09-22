@@ -36,6 +36,8 @@
 ### Others
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000?style=for-the-badge&logo=ai&logoColor=white)
 
 ---
 
